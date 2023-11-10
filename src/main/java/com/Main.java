@@ -26,7 +26,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Main calculator = new Main();
-		
+		System.out.println("尝试提交一次代码，那就交个println吧");
 		// Test cases
 		System.out.println("Test Case 1 (5 + 5): " + calculator.add(5, 5));
 		System.out.println("Test Case 2 (Integer.MAX_VALUE + 1):" + password);
